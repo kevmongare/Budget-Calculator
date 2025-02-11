@@ -1,0 +1,26 @@
+body{
+    
+}
+.calculator{
+    justify-content: center;
+    max-width: fit-content;
+    padding: 10px;
+    background-color: rgba(10, 10, 10, 0.414);
+    
+}
+h2{
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+
+}
+button{
+    justify-content: center;
+    color: white;
+    background-color: cornflowerblue;
+    padding: 4px;
+    border-radius: 5px;
+}
+h3{
+    color: chartreuse;
+}
